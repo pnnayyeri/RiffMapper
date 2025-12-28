@@ -100,6 +100,18 @@ To ensure the default mapping works correctly with **Guitar Hero 3 (PC)**, go to
 2.  **Controller Mode:** The RiffMaster controller can be used in either **PS5** or **PS4** modes.
 3.  **Avoid Conflicts:** To prevent the game from detecting the controller directly (which can cause input conflicts), **turn off or disconnect the RiffMaster controller** before launching the game. Once the game is open, **turn on or reconnect** the controller.
 
+## Contributing
+
+Contributions are welcome! We appreciate your help in making RiffMapper better. If you have suggestions for improvements, bug fixes, or new features, feel free to contribute.
+
+1.  **Fork the Project**
+2.  **Create your Feature Branch** (`git checkout -b feature/AmazingFeature`)
+3.  **Commit your Changes** (`git commit -m 'Add some AmazingFeature'`)
+4.  **Push to the Branch** (`git push origin feature/AmazingFeature`)
+5.  **Open a Pull Request**
+
+Please make sure to follow the existing coding style and test your changes.
+
 ## License
 MIT
 
