@@ -1,0 +1,4 @@
+inputs
+pynput
+pygame-ce
+pyinstaller

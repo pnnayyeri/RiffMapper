@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Installer
+build/
+dist/
+*.spec
+
+# Virtual Environments
+venv/
+env/
+.env
+.venv
+riffmapperenv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+.cursor/
+
+# Configs
+key_mapping.json
+
