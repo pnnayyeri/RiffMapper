@@ -92,7 +92,7 @@ To ensure the default mapping works correctly with **Guitar Hero 3 (PC)**, go to
 -   **Star Power:** `Space`
 -   **Strum Up:** `Right Mouse Button`
 -   **Strum Down:** `Left Mouse Button`
--   **Whammy:** *Map to valid key if needed (not mapped by default)*
+-   **Whammy:** *Not supported yet*
 
 ### Important Settings & Notes
 
